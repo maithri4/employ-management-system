@@ -1,8 +1,8 @@
-package com.jyothish.ems.ems_api.controller;
+package com.employee.ems.ems_api.controller;
 
-import com.jyothish.ems.ems_api.entity.Employee;
-import com.jyothish.ems.ems_api.repository.EmployeeRepository;
-import com.jyothish.ems.ems_api.service.EmployeeService;
+import com.employee.ems.ems_api.entity.Employee;
+import com.employee.ems.ems_api.repository.EmployeeRepository;
+import com.employee.ems.ems_api.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
