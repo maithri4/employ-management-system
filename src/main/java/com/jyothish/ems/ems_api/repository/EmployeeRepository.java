@@ -1,6 +1,6 @@
-package com.jyothish.ems.ems_api.repository;
+package com.employee.ems.ems_api.repository;
 
-import com.jyothish.ems.ems_api.entity.Employee;
+import com.employee.ems.ems_api.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
