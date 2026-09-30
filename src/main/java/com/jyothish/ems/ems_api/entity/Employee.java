@@ -1,4 +1,4 @@
-package com.jyothish.ems.ems_api.entity;
+package com.employee.ems.ems_api.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
